@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently a third-year undergraduate student at the University of Waterloo
+- 🔭 I’m currently interning with [TQ Tezos](https://tqtezos.com/) working on Tezos blockchain tooling and smart contracts
+- 👯 I’m looking for summer 2021 internships working with functional programming
+- 📫 My resume and and contact info can be found on my [site](https://simonzeng.com)
+
 <!--
 **s-zeng/s-zeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

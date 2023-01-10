@@ -2,8 +2,9 @@
 
 - 🌱 I’m currently a fourth-year undergraduate student at the University of Waterloo
 - 🤔 I’m an active user of Neovim and a contributer to Neovim plugins
-- 🔭 In Winter 2022 I was a dev intern at [Jane Street](https://www.janestreet.com/) writing OCaml
+- 🔭 In 2023 I will be starting a Software Engineering position with [D.E. Shaw](https://www.deshaw.com/)
 - ⚡ In the past I've also interned for:
+  - [Jane Street](https://www.janestreet.com/), implementing OCaml tooling
   - [Tesla](https://tesla.com), working on firmware tooling in Haskell
   - [TQ Tezos](https://tqtezos.com/), developing blockchain infrastructure and smart contracts
   - [Ericsson](https://www.ericsson.com/), writing Clojure applications

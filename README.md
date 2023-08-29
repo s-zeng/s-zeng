@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a fourth-year undergraduate student at the University of Waterloo
+- 🔭 I'm currently a software developer at [D.E. Shaw](https://www.deshaw.com/)
 - 🤔 I’m an active user of Neovim and a contributer to Neovim plugins
-- 🔭 In 2023 I will be starting a Software Engineering position with [D.E. Shaw](https://www.deshaw.com/)
+- 🌱 I’m proud to have completed my Bachelor's degree in Computer Science at the University of Waterloo
 - ⚡ In the past I've completed internships at:
   - [Jane Street](https://www.janestreet.com/), implementing OCaml libraries
   - [Tesla](https://tesla.com), working on firmware tooling in Haskell

@@ -8,6 +8,4 @@
   - [Tesla](https://tesla.com), working on firmware tooling in Haskell
   - [TQ Tezos](https://tqtezos.com/), developing blockchain infrastructure and smart contracts
   - [Ericsson](https://www.ericsson.com/), writing Clojure applications
-- 📫 My resume and contact info can be found on my [site](https://simonzeng.com), or can be seen below:
-
-![Resume](https://simonzeng.com/resume/Zeng_Simon_Resume.png)
+- 📫 My resume and contact info can be found on my [site](https://simonzeng.com)

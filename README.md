@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently a software developer at [D.E. Shaw](https://www.deshaw.com/)
+- 🔭 I'm currently a software developer at [D. E. Shaw](https://www.deshaw.com/)
 - 🤔 I’m an active user of Neovim and a contributer to Neovim plugins
 - 🌱 I’m proud to have completed my Bachelor's degree in Computer Science at the University of Waterloo
 - ⚡ In the past I've completed internships at:

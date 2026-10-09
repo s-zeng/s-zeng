@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently a software developer at [D. E. Shaw](https://www.deshaw.com/), working on number crunching and machine learning in Python
+- 🔭 I'm currently a software developer at [D. E. Shaw](https://www.deshaw.com/), working on machine learning research and engineering in Python and Rust
 - 🌱 I’m proud to have completed my Bachelor's degree in Computer Science at the [University of Waterloo](https://uwaterloo.ca)
 - ⚡ In the past I've completed internships at:
   - [Jane Street](https://www.janestreet.com/), writing OCaml database and compiler libraries
